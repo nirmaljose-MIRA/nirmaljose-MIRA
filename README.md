@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nirmal Jose
+- 👀 I’m interested in Connected Autonomous Vehicles
+- 🌱 I’m currently working as Graduate Engineer - Connected Autonomous Vehicles @ HORIBA MIRA
